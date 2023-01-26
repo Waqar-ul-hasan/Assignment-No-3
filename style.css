@@ -1,0 +1,95 @@
+#bgcolor{
+    background-color:  #F7F7F7;
+}
+
+.content{
+    padding-left: 50px;
+    text-decoration: none;         
+    color: black; 
+}
+#padd{
+    padding-right: 200px;
+}
+#button{
+    background-color: orange;
+    color: white;
+    border: none;
+}
+#display{
+    display: flex;
+}
+#paddings{
+    padding-left: 200px;
+}
+#button1{
+    background-color: orange;
+    color: white;
+    padding: 5px 30px;
+    margin-left: 120px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    border: none;
+}
+.button2{
+    background-color: black;
+    color: white;
+    padding: 2px 30px;
+    margin-left: 10px;
+}
+#border1{
+    border: 2px solid black;
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+}
+#border2{
+     border: 2px solid black;
+     height: 300px;
+     width: 400px;
+     margin: 20px;
+     text-align: center;
+}
+#border3{
+    border: 2px solid black;
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+}
+.display{
+    display: flex;
+}
+h3{
+    font-size: 30px;
+    color: orangered;
+}
+.padd1{
+     padding-right: 200px;
+}
+h2{
+     font-size: 50px;
+}
+.bottom{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 50%;
+    margin-right: 700px;
+}
+#padd2{
+    padding-left: 300px;
+
+}
+.button3{
+    background-color: orange;
+    color: white;
+    padding: 5px 30px ;
+    border: none;
+    margin-left: 10px;
+}
+#color{
+    background-color: lightgray;
+    text-align: center;
+    padding: 30px;
+
+}
